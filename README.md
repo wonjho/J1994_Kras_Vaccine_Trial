@@ -6,7 +6,7 @@ This repository contains R scripts and configuration files used for spatial anal
 
 ## 📁 Repository Contents
 
-- R scripts used for preprocessing, clustering, and spatial neighborhood analysis.
+- R scripts used for preprocessing, clustering, and phenotypic analysis.
 - `Config/` – metadata and merge files.
 
 ## 🔗 Data Access
